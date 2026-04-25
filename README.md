@@ -6,8 +6,7 @@ Superstore Dataset
 ## Features
 - Data cleaning and preprocessing  
 - Sales trend analysis  
-- Category and region-wise performance analysis  
-- Top products identification  
+- Category and region-wise performance analysis    
 - Sales prediction using linear regression  
 - Visualization of insights and conclusions  
 
